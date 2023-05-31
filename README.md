@@ -77,7 +77,7 @@
 
 > Added a link to my deployed project.
 
- [Live Demo Link](https://mariamosman11.github.io/CAPSTONE-PROJECT-ONE/)
+ [Live Demo Link](https://siddghosh108.github.io/Capstone-Project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
