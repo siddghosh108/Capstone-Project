@@ -96,7 +96,7 @@
 
 - Create a new folder to store the files in.
 
-### Install
+### Installmma
 
 Install this project with:
 
